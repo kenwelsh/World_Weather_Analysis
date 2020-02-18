@@ -131,6 +131,7 @@ dmypy.json
 # Practice files
 random_numbers.ipynb
 API_practice.ipynb
+Google_Nearby_Search.ipynb
 
 # Open Weather api key file
 config.py
